@@ -56,13 +56,17 @@ extra:
 nav:
   - ホーム: index.md
   - ビギナー: beginner.md
-  - 占星術の基礎知識: basics.md
-  - 出生データ: birth-data.md
-  - 設定: settings.md
   - チャートを開く: open-chart.md
+  - 占星術の基礎知識: basics.md
   - 一重円: single-chart.md
-  - 三重円: triple-chart.md
   - 二重円: double-chart.md
-  - 未来予測: forecast.md
+  - 三重円: triple-chart.md
+  - ハーモニック: harmonic.md
   - リターン図: return-chart.md
   - 年表: timeline.md
+  - 未来予測: forecast.md
+  - AIレポート: ai-report.md
+  - イレクション: election.md
+  - 天文暦: ephemeris.md
+  - 出生データ: birth-data.md
+  - 設定: settings.md

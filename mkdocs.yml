@@ -56,6 +56,7 @@ extra:
 nav:
   - ホーム: index.md
   - ビギナー: beginner.md
+  - 占星術の基礎知識: basics.md
   - 出生データ: birth-data.md
   - 設定: settings.md
   - チャートを開く: open-chart.md

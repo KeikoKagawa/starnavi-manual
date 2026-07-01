@@ -35,27 +35,6 @@ plugins:
   - search:
       lang:
         - ja
-        - en
-  - i18n:
-      docs_structure: suffix
-      languages:
-        - locale: ja
-          default: true
-          name: 日本語
-        - locale: en
-          name: English
-          nav_translations:
-            ホーム: Home
-            ビギナー: Beginner
-            出生データ: Birth Data
-            設定: Settings
-            チャートを開く: Opening a Chart
-            一重円: Single Chart
-            三重円: Triple Chart
-            二重円: Double Chart
-            未来予測: Forecast
-            リターン図: Return Chart
-            年表: Timeline
   - print-site:
       add_cover_page: true
       cover_page_template: "docs/assets/templates/print_cover.tpl"

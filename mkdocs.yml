@@ -46,8 +46,16 @@ plugins:
           name: English
           nav_translations:
             ホーム: Home
-            はじめに: Getting Started
             ビギナー: Beginner
+            出生データ: Birth Data
+            設定: Settings
+            チャートを開く: Opening a Chart
+            一重円: Single Chart
+            三重円: Triple Chart
+            二重円: Double Chart
+            未来予測: Forecast
+            リターン図: Return Chart
+            年表: Timeline
 
 markdown_extensions:
   - admonition
@@ -60,5 +68,13 @@ markdown_extensions:
 
 nav:
   - ホーム: index.md
-  - はじめに:
-      - ビギナー: beginner.md
+  - ビギナー: beginner.md
+  - 出生データ: birth-data.md
+  - 設定: settings.md
+  - チャートを開く: open-chart.md
+  - 一重円: single-chart.md
+  - 三重円: triple-chart.md
+  - 二重円: double-chart.md
+  - 未来予測: forecast.md
+  - リターン図: return-chart.md
+  - 年表: timeline.md

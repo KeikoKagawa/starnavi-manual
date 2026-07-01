@@ -1,7 +1,6 @@
 site_name: StarNavigator 使い方マニュアル
 site_description: プロ占い師向けホロスコープ作成ソフト StarNavigator（スタナビ）の使い方ガイド
-# サブドメイン確定後に設定（例）:
-# site_url: https://manual.starnavi.arijp.com/
+site_url: https://manual.starnavi.arijp.com/
 
 # 使い方（操作方法）のみを扱う。占星術の解釈・知識（α）は載せない。
 

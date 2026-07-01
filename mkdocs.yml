@@ -56,6 +56,11 @@ plugins:
             未来予測: Forecast
             リターン図: Return Chart
             年表: Timeline
+  - print-site:
+      add_cover_page: true
+      cover_page_template: "docs/assets/templates/print_cover.tpl"
+      add_to_navigation: true
+      print_page_title: "印刷 / PDF（全体）"
 
 markdown_extensions:
   - admonition
@@ -65,6 +70,9 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: true
+
+extra:
+  manual_date: "2026年7月版"
 
 nav:
   - ホーム: index.md

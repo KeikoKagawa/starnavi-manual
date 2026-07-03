@@ -1,9 +1,10 @@
 name: Deploy manual site
 
-# main に push すると自動でビルドして GitHub Pages に公開する。
+# 公開は手動実行のみ(1日の作業終了後に1回)。
+# push毎の自動デプロイはGitHub Pagesの回数制限(スロットリング)に
+# 引っかかるため2026-07-03に廃止。実行はActionsタブの
+# "Run workflow"ボタン、またはAPIのworkflow_dispatchから。
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:

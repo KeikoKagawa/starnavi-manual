@@ -11,9 +11,11 @@ permissions:
   pages: write
   id-token: write
 
+# 連続pushでも進行中のPagesデプロイを中断せず、後続をキューで待たせる
+# (cancel-in-progress: true だと同時デプロイが衝突してdeploy-pagesが失敗する)
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:

@@ -52,6 +52,9 @@ markdown_extensions:
 
 extra:
   manual_date: "2026年7月版"
+  analytics:
+    provider: google
+    property: G-EJZX3CCNF5
 
 nav:
   - ホーム: index.md

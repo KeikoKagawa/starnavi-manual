@@ -50,6 +50,9 @@ markdown_extensions:
   - toc:
       permalink: true
 
+extra_javascript:
+  - javascripts/external-links.js
+
 extra:
   manual_date: "2026年7月版"
   analytics:
@@ -59,7 +62,7 @@ extra:
 nav:
   - ホーム: index.md
   - ビギナー: beginner.md
-  - チャートを開く: open-chart.md
+  - ヘッダーとLISAガイド: open-chart.md
   - 占星術の基礎知識: basics.md
   - 一重円: single-chart.md
   - 二重円: double-chart.md
@@ -78,4 +81,4 @@ nav:
   - プラン・クレジット: plan-credits.md
   - 占い・鑑定: shop.md
   - 未來予報カレンダー: forecast-calendar.md
-  - AIに質問（NotebookLM）: https://notebooklm.google.com/notebook/ba28c68e-c7c0-4a81-88b0-dfbf4872da70
+  - AIに使い方を聞く: https://notebooklm.google.com/notebook/ba28c68e-c7c0-4a81-88b0-dfbf4872da70

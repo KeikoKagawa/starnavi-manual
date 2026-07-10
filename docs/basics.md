@@ -23,5 +23,11 @@
 - [カルミネート](https://www.arijp.com/basis/culminate)
 - [ハーフサム](https://www.arijp.com/basis/halfsum)
 
+## 読み物・コラム（オウンドメディア）
+
+占星術のコラムや読み物は、ARI のオウンドメディアでもご覧いただけます。
+
+- [占いの教科書：ARI The Basics of Astrology](https://arijp.com/knowledge)
+
 !!! note "各章からのリンク"
     各章の説明の中でも、専門用語が出てくるところには、上記の該当ページへのリンクを添えていきます。
